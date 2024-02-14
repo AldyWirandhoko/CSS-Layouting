@@ -1,0 +1,14 @@
+.header{
+    color: darkgreen;
+    background-color: black;
+}
+.navigasi{
+    display: block;
+    background-color: yellow;
+}
+.main span{
+    background-color: darkcyan;
+}
+.main{
+    background-color: bisque;
+}
